@@ -1,0 +1,51 @@
+Gender,Age,Weight,BMI,Physical_Activity,Chronic_Disease,Diet_Recommendation
+Female,56,50,23.59,Moderate,Yes,Strict
+Male,69,55,34.06,High,No,Strict
+Female,53,80,32.55,High,No,Strict
+Female,49,58,23.65,Moderate,No,Not strict
+Female,37,74,34.39,High,Yes,Strict
+Male,67,50,33.6,Moderate,Yes,Strict
+Female,62,71,31.03,Low,No,Strict
+Female,70,97,26.93,Low,Yes,Not strict
+Male,57,86,32.24,Low,No,Strict
+Male,72,93,24.32,Low,Yes,Not strict
+Male,68,98,31.78,High,No,Strict
+Female,37,82,25.48,Moderate,No,Not strict
+Male,56,75,31.79,Moderate,No,Strict
+Female,50,74,27.12,High,No,Strict
+Male,39,66,32.06,Moderate,Yes,Not strict
+Female,47,76,26.14,High,Yes,Strict
+Male,79,88,28.09,Low,Yes,Not strict
+Male,61,60,24.64,Low,No,Not strict
+Male,37,88,23.99,Low,Yes,Strict
+Female,30,64,33.86,Low,Yes,Strict
+Female,18,61,31.37,High,No,Not strict
+Female,65,69,28.82,High,Yes,Strict
+Male,66,79,18.93,Moderate,No,Strict
+Female,78,90,29.39,Low,Yes,Strict
+Female,60,53,25.62,Low,Yes,Not strict
+Female,46,66,27.2,Moderate,No,Not strict
+Male,23,68,31.03,High,No,Strict
+Male,20,66,34.93,Moderate,Yes,Strict
+Female,55,64,23.78,High,Yes,Strict
+Male,45,50,20.43,Moderate,Yes,Not strict
+Female,22,67,18.63,Moderate,Yes,Strict
+Female,77,59,24.83,High,Yes,Strict
+Female,67,91,19.13,Low,No,Strict
+Female,19,52,24.82,Low,Yes,Strict
+Female,62,79,34.2,Low,Yes,Not strict
+Male,45,70,23.4,High,Yes,Strict
+Female,65,99,30.84,Low,No,Not strict
+Female,49,94,19.77,High,No,Not strict
+Female,19,68,23.65,Low,No,Strict
+Female,78,57,33.66,High,No,Not strict
+Male,47,65,26.49,Moderate,Yes,Not strict
+Male,28,81,26.59,Low,Yes,Strict
+Male,55,72,23.51,High,No,Not strict
+Male,79,85,29.93,High,Yes,Strict
+Female,54,63,30.84,Low,Yes,Strict
+Male,33,88,23.83,Moderate,No,Not strict
+Female,59,78,25.86,Moderate,No,Not strict
+Female,63,59,23.61,High,No,Strict
+Male,73,82,21.61,Low,No,Strict
+Male,25,66,28.65,High,Yes,Not strict
